@@ -1,0 +1,7 @@
+name 'CI-CD_Destroy'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures CI-CD_Destroy'
+long_description 'Installs/Configures CI-CD_Destroy'
+version '0.1.0'

@@ -1,0 +1,7 @@
+DEPENDENCIES
+  CI-CD_Destroy
+    path: .
+    metadata: true
+
+GRAPH
+  CI-CD_Destroy (0.1.0)
