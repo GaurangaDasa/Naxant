@@ -20,4 +20,4 @@ WORKDIR /opt/naxant
 
 #Running maven build script
 
-RUN mvn clean package
+#RUN mvn clean package
